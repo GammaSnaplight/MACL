@@ -434,19 +434,19 @@ gui:ingame.banner.button
 -antiHeightDamage
 gui:ingame.scene.spawnpoint.interactive.3dmodel.fullscreen.fullmade.buttons.edge.colorful
 pur:premiumBooster.SINGLE
-buy:49.YAN
+buy:49.RUB
 ext:yellowColor
 
 -generateDynamite
 gui:ingame.scene.spawnpoint.interactive.3dmodel.fullscreen.fullmade.buttons.edge.colorful
 pur:premiumBooster.SINGLE
-buy:249.YAN
+buy:249.RUB
 ext:yellowColor, mostExpensive
 
 -adsOff
 gui:ingame.scene.spawnpoint.interactive.3dmodel.fullscreen.fullmade.buttons.edge.colorful
 pur:premiumPurchase.SINGLE 
-buy:49.YAN
+buy:49.RUB
 ext:yellowColor
 ```
 
