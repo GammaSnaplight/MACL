@@ -425,4 +425,11 @@ gui:ingame.banner.button
   
 </details>
 
+<details>
+  <summary><strong>🔶API C#</strong></summary>
+
+<strong><i>В разработке...</i></strong>
+  
+</details>
+
 </details>
