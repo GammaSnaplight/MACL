@@ -1,12 +1,21 @@
-# MACL
-
+# MACL Documentation
 
 <details>
-  <summary>🔶English _(Click to expand)_</summary>
-b
+  <summary><strong>🔶English</strong> <i>(Click to expand)</i></summary>
+
+## MACL - Minimal Analyze Configuration Language
+
+
+
 </details>
 
 <details>
-  <summary>🔶Russian _(Нажмите, чтобы раскрыть)_</summary>
-a
+  <summary><strong>🔶Russian</strong> <i>(Нажмите, чтобы раскрыть)</i></summary>
+
+## MACL - Минимальный язык анализа конфигурации
+
+### Для чего он нужен?
+
+
+
 </details>
